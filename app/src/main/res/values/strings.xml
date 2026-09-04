@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AWESUM</string>
+
+    <!-- Login -->
+    <string name="login_title">AWESUM</string>
+    <string name="login_subtitle">Sign in to manage your installation jobs</string>
+    <string name="label_email">EMAIL</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="hint_email">you@example.com</string>
+    <string name="hint_password">••••••••</string>
+    <string name="btn_login">Log In</string>
+    <string name="divider_or">or</string>
+    <string name="btn_google_signin">Continue with Google</string>
+    <string name="msg_no_account">Don\'t have an account?</string>
+    <string name="btn_register">Register</string>
+
+    <!-- Asset Management -->
+    <string name="asset_count_format">%1$d assets logged</string>
+    <string name="filter_all">All</string>
+    <string name="filter_dispatch">Dispatch</string>
+    <string name="filter_equipment">Equipment</string>
+    <string name="filter_vehicle">Vehicle</string>
+
+    <!-- Reflection -->
+    <string name="btn_return_yes">Yes — Team Must Return</string>
+    <string name="btn_return_no">No — Job Complete</string>
+
+    <!-- Asset Management Fragment -->
+    <string name="title_asset_management">ASSET MANAGEMENT</string>
+    <string name="label_installation_address">INSTALLATION ADDRESS</string>
+    <string name="label_start">START</string>
+    <string name="label_end">END</string>
+    <string name="title_tools_assets">Tools &amp; Assets</string>
+    <string name="label_pages_info">DISPATCH PAGE · OUT-FOR-SERVICE PAGE</string>
+    <string name="btn_add_asset">+ Add Asset</string>
+    <string name="title_installation_team">Installation Team</string>
+    <string name="btn_add_member">+ Add Member</string>
+    <string name="title_site_photos">Completed Work — Site Photos</string>
+    <string name="btn_upload_photo">+ Upload Photo</string>
+    <string name="btn_save_draft">Save Draft</string>
+    <string name="btn_submit_job_log">Submit Job Log</string>
+
+    <!-- Reflection Fragment -->
+    <string name="title_reflection">POST-JOB REFLECTION</string>
+    <string name="title_improvement">What Needs To Be Done Better Next Time</string>
+    <string name="subtitle_improvement">Reflect on process, preparation, communication, and execution</string>
+    <string name="hint_reflection_notes">Type your notes here&#8230;</string>
+    <string name="title_return_check">Does the Team Need to Return?</string>
+    <string name="btn_reflection_submit">Submit Reflection</string>
+
+    <!-- Add Asset Activity -->
+    <string name="title_add_asset">ADD ASSET</string>
+    <string name="title_new_asset">New Asset</string>
+    <string name="subtitle_new_asset">Log a tool, vehicle, or piece of equipment for this installation job.</string>
+    <string name="label_asset_name">ASSET NAME *</string>
+    <string name="hint_asset_name">e.g. Paste Brush Set (Large), Van GP 45 XY&#8230;</string>
+    <string name="label_category">CATEGORY</string>
+    <string name="label_status">STATUS</string>
+    <string name="label_in_use">In Use</string>
+    <string name="label_out_for_service">Out for Service</string>
+    <string name="label_quantity">QUANTITY</string>
+    <string name="label_notes_optional">NOTES (OPTIONAL)</string>
+    <string name="hint_notes_optional">Any additional information&#8230;</string>
+    <string name="btn_save_asset">Save Asset</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Add Member Activity -->
+    <string name="title_add_member">ADD MEMBER</string>
+    <string name="title_add_team_member">Add Team Member</string>
+    <string name="subtitle_add_team_member">Add an employee going out on this installation.</string>
+    <string name="label_full_name">FULL NAME *</string>
+    <string name="hint_full_name">e.g. Sipho Dlamini</string>
+    <string name="label_role">ROLE / POSITION *</string>
+    <string name="hint_role">e.g. Lead Installer, Driver, Technician&#8230;</string>
+    <string name="label_phone">PHONE (OPTIONAL)</string>
+    <string name="hint_phone">+27 71 000 0000</string>
+    <string name="btn_add_member_submit">Add Member</string>
+
+    <!-- Upload Photo Activity -->
+    <string name="title_upload_photo_breadcrumb">UPLOAD PHOTO</string>
+    <string name="title_upload_site_photo">Upload Site Photo</string>
+    <string name="subtitle_upload_site_photo">Add a photo of completed installation work for this job.</string>
+    <string name="label_drop_zone">Drop a photo here or browse</string>
+    <string name="label_upload_limits">PNG, JPG, WEBP — max 20 MB</string>
+    <string name="label_caption">CAPTION (OPTIONAL)</string>
+    <string name="hint_caption">e.g. North wall — completed, paste dried</string>
+    <string name="btn_save_photo">Save Photo</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="bg_root">#0B0F19</color>
+    <color name="bg_card">#141A29</color>
+    <color name="bg_card_border">#232B3D</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8892A6</color>
+    <color name="accent_orange">#F2A93B</color>
+
+    <color name="badge_dispatch_bg">#1A3350</color>
+    <color name="badge_dispatch_text">#4DA3FF</color>
+
+    <color name="badge_equipment_bg">#2B1F45</color>
+    <color name="badge_equipment_text">#B18CFF</color>
+
+    <color name="badge_vehicle_bg">#3D1B22</color>
+    <color name="badge_vehicle_text">#F26D6D</color>
+
+    <color name="badge_inuse_bg">#173B27</color>
+    <color name="badge_inuse_text">#3ECF7A</color>
+
+    <color name="badge_outforservice_bg">#3D2A10</color>
+    <color name="badge_outforservice_text">#F2A93B</color>
+
+    <color name="status_active_bg">#173B27</color>
+    <color name="status_active_text">#3ECF7A</color>
+
+    <color name="avatar_bg">#7A4A12</color>
+</resources>

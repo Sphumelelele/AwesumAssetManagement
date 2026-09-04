@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515255538727",
+    "project_id": "awesum-app",
+    "storage_bucket": "awesum-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515255538727:android:32b4483080762c56a16a02",
+        "android_client_info": {
+          "package_name": "com.awesum.assetmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515255538727-rjetdaura879om36kv0hpm0nnmtr3p7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesum.assetmanagement",
+            "certificate_hash": "b6b6767b9db7222dfc344ba35db6ac1933a4b24a"
+          }
+        },
+        {
+          "client_id": "515255538727-n8gd4uajhske1c33v6nd71v59t7icttn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FRa_wXoVdHjvu3wrKm3Uwa5KeCQlwwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515255538727-n8gd4uajhske1c33v6nd71v59t7icttn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
